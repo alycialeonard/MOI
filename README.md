@@ -1,7 +1,7 @@
 # Markers of Inequality (MOI): Intersectional Needs Assessment
 
 This repo contains code to study intersectionality in needs assessment for development planning.
-It accompanies the following paper: *To be added following submission*
+It accompanies the paper "[Shedding light on vulnerability: Intersectional energy planning for development](https://doi.org/10.1016/j.rser.2024.115199)".
 
 This method was developed using a [case study dataset collected in Siaya County, Kenya](https://doi.org/10.5281/zenodo.7835350).
 This dataset covers, amongst other things, data on which items people prioritize most in their daily lives and the reasons why (i.e., their values).
@@ -40,5 +40,22 @@ This can be done by editing the pre-processing file to create one-hot columns fo
 
 ### Citation
 
-If you make use of these scripts, please use the following citation: 
-*To be added following submission*
+If you make use of this codebase, please use the following citation: 
+
+*Leonard, A., Nguti, K., Lanza, M. F., & Hirmer, S. (2025). 
+Shedding light on vulnerability: Intersectional energy planning for development. 
+Renewable and Sustainable Energy Reviews, 211, 115199. 
+https://doi.org/10.1016/j.rser.2024.115199.*
+
+```commandline
+@article{leonard2025shedding,
+  title={Shedding light on vulnerability: Intersectional energy planning for development},
+  author={Leonard, Alycia and Nguti, Kuthea and Lanza, Micaela Flores and Hirmer, Stephanie},
+  journal={Renewable and Sustainable Energy Reviews},
+  volume={211},
+  pages={115199},
+  year={2025},
+  publisher={Elsevier},
+  doi={10.1016/j.rser.2024.115199}
+}
+```
